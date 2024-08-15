@@ -1,0 +1,13 @@
+/* WebViewExample.css */
+.container {
+    height: 350px; /* Set height of the container */
+    width: 100%; /* Full width */
+    overflow: hidden; /* Hide overflow if needed */
+  }
+  
+  .webview {
+    width: 100%;
+    height: 100%;
+    border: none; /* Remove border for the iframe */
+  }
+  
